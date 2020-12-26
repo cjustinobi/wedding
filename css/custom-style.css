@@ -87,3 +87,7 @@ body {
         column-count: 1;
     }
 }
+
+.navigation header {
+    padding: 14px 0 !important;
+}
